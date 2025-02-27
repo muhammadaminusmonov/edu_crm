@@ -1,3 +1,7 @@
 from django.db import models
 
-# Create your models here.
+class CommunicationLog(models.Model):
+    pass
+
+class Lead(models.Model):
+    pass
